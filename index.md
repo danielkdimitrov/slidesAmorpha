@@ -6,7 +6,7 @@
 The scientific method
 --------
 
-![](images/ovg.jpg)
+![](images/OvG.jpg)
 
 --------
 
